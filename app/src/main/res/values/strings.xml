@@ -1,0 +1,322 @@
+<resources>
+    <string name="app_name">지화자</string>
+    <string name="map">지도</string>
+    <string name="list">목록</string>
+    <string name="setting">설정</string>
+    <string name="jiwhaja">지역화폐사용처</string>
+    <string name="hint">검색</string>
+    <string name="help">도움말</string>
+    <string name="help_1">- 경기도 지역화폐 가맹점을 한 눈에 보기 쉽게 지도와 리스트로 만들었습니다.\n\n\n- 지역화폐 가맹점 리스트는 공공데이터 포털로부터 제공받고 있으며 아직 데이터를 제공받지 못한 지자체에 정보를 요청할 예정입니다.\n\n\n- 설정 탭에서 지역화폐 소멸 예정일을 입력해두면 편리합니다.\n\n\n- 지도에 표시하기 원하는 가맹점 업종을 선택할 수 있습니다.\n\n\n- 검색어로 상호명, 업태, 업종 검색이 가능합니다.\n\n\n- 전화 아이콘으로 가맹점과 전화연결 가능합니다.\n\n\n- 주소를 누르면 클립보드에 복사됩니다.\n\n\n- 가맹점의 폐업, 업종변경 등으로 실제 정보와 다를 수 있습니다.\n\n\n- 가맹점 정보는 계속해서 업데이트 중이며 최대한 정확한 정보를 제공하기 위해 노력중입니다.</string>
+    <string name="setting_1">지역화폐 소멸 예정일을 메모해두시면 편리합니다.</string>
+    <string name="setting_2">지역화폐 사용 지역을 선택해주세요.</string>
+    <string name="admob_app_id">ca-app-pub-3127429846651021~8497143095</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3127429846651021/6265934688</string>
+
+    <string-array name="filter_0_spinner">
+        <item>서양음식</item>
+        <item>스넥</item>
+        <item>위탁급식업</item>
+        <item>일반한식</item>
+        <item>일식·회집</item>
+        <item>주점</item>
+        <item>중국식</item>
+        <item>칵테일바</item>
+    </string-array>
+
+    <string-array name="filter_1_spinner">
+        <item>병원</item>
+        <item>종합병원</item>
+        <item>치과병원</item>
+        <item>한방병원</item>
+    </string-array>
+
+    <string-array name="filter_2_spinner">
+        <item>가전제품</item>
+        <item>기타전기제품</item>
+        <item>냉열기기</item>
+    </string-array>
+
+    <string-array name="filter_3_spinner">
+        <item>기타건강식품</item>
+        <item>인삼제품</item>
+        <item>홍삼제품</item>
+    </string-array>
+
+    <string-array name="filter_4_spinner">
+        <item>기타유통업</item>
+        <item>슈퍼마켓</item>
+        <item>인터넷 Mall</item>
+        <item>인터넷 종합 Mall</item>
+        <item>인터넷P/G</item>
+        <item>편 의 점</item>
+    </string-array>
+
+    <string-array name="filter_5_spinner">
+        <item>의원</item>
+        <item>치과의원</item>
+        <item>한의원</item>
+    </string-array>
+
+    <string-array name="filter_6_spinner">
+        <item>기계공구</item>
+        <item>기타 전문점</item>
+        <item>비영리/대상</item>
+        <item>비영리/비대상</item>
+    </string-array>
+
+    <string-array name="filter_7_spinner">
+        <item>기능학원</item>
+        <item>기타 교육기관</item>
+        <item>대학등록금</item>
+        <item>독서실</item>
+        <item>보습학원</item>
+        <item>독서실</item>
+        <item>예·체능계학원</item>
+        <item>외국어학원</item>
+        <item>유아원</item>
+        <item>유치원</item>
+        <item>초중고교육기관</item>
+        <item>컴퓨터학원</item>
+        <item>학습지 교육</item>
+    </string-array>
+
+    <string-array name="filter_8_spinner">
+        <item>과학기자재</item>
+        <item>기타서적문구</item>
+        <item>문구용품</item>
+        <item>완구점</item>
+        <item>일반서적</item>
+        <item>전문서적</item>
+        <item>정기간행물</item>
+        <item>출판 및 인쇄물</item>
+    </string-array>
+
+    <string-array name="filter_9_spinner">
+        <item>골프용품 전문점</item>
+        <item>스포츠·레져용품</item>
+        <item>악기점</item>
+        <item>음반/영상물</item>
+        <item>피아노대리점</item>
+    </string-array>
+
+    <string-array name="filter_10_spinner">
+        <item>자체물품대금</item>
+    </string-array>
+
+    <string-array name="filter_11_spinner">
+        <item>구내매점(국가기관 등)</item>
+        <item>농,축협 직영매장</item>
+    </string-array>
+
+    <string-array name="filter_12_spinner">
+        <item>여관/기타숙박업</item>
+    </string-array>
+
+    <string-array name="filter_13_spinner">
+        <item>기타대인서비스</item>
+        <item>미용원</item>
+        <item>미용재료</item>
+        <item>사우나</item>
+        <item>안경</item>
+        <item>의료용품</item>
+        <item>이용원</item>
+        <item>피부미용실</item>
+        <item>화장품</item>
+    </string-array>
+
+    <string-array name="filter_14_spinner">
+        <item>기타의료기관 및 기타의료기기</item>
+        <item>동물병원</item>
+        <item>산후조리원</item>
+        <item>조산원</item>
+    </string-array>
+
+    <string-array name="filter_15_spinner">
+        <item>건강식품</item>
+        <item>기타1</item>
+        <item>기타3</item>
+        <item>기타4</item>
+        <item>레져업소</item>
+        <item>서적</item>
+        <item>학원</item>
+    </string-array>
+
+    <string-array name="filter_16_spinner">
+        <item>건축용 요업제품</item>
+        <item>기타건축자재</item>
+        <item>목재·석재·철물</item>
+        <item>보일러·펌프·샷시</item>
+        <item>부동산 분양</item>
+        <item>유리</item>
+        <item>인테리어전문</item>
+        <item>조명기구</item>
+        <item>페인트</item>
+    </string-array>
+
+    <string-array name="filter_17_spinner">
+        <item>고속버스</item>
+        <item>관광여행</item>
+        <item>기타교통수단</item>
+        <item>렌터카</item>
+    </string-array>
+
+    <string-array name="filter_18_spinner">
+        <item>기타의류</item>
+        <item>내의판매</item>
+        <item>단체복</item>
+        <item>맞춤복점</item>
+        <item>스포츠의류</item>
+        <item>아동의류</item>
+        <item>정장</item>
+        <item>캐주얼의류</item>
+    </string-array>
+
+    <string-array name="filter_19_spinner">
+        <item>E1가스충전소</item>
+        <item>GS 가스충전소</item>
+        <item>GS주유소</item>
+        <item>LPG 취급점</item>
+        <item>SK가스충전소</item>
+        <item>SK주유소</item>
+        <item>기타연료</item>
+        <item>쌍용S</item>
+        <item>유류판매</item>
+        <item>주유소</item>
+        <item>현대정유 가스충전소</item>
+        <item>현대정유(오일뱅크)</item>
+    </string-array>
+
+    <string-array name="filter_20_spinner">
+        <item>국산신차판매</item>
+        <item>기타운송</item>
+        <item>이륜차판매</item>
+        <item>중고자동차판매</item>
+    </string-array>
+
+    
+    <string-array name="filter_21_spinner">
+        <item>기타음료식품</item>
+        <item>농·축·수산폼</item>
+        <item>미곡상</item>
+        <item>정육점</item>
+        <item>제과점</item>
+        <item>주류 판매점</item>
+    </string-array>
+
+    <string-array name="filter_22_spinner">
+        <item>가례서비스업</item>
+        <item>공공요금대행서비스/소득공제대상</item>
+        <item>공공요금대행서비스/소득공제비대상</item>
+        <item>기타용역서비스</item>
+        <item>법률회계서비스(개인)</item>
+        <item>법률회계서비스(법인)</item>
+        <item>보관및 창고업</item>
+        <item>부동산 중개·임대</item>
+        <item>사무서비스</item>
+        <item>소프트웨어</item>
+        <item>정보서비스</item>
+        <item>조세서비스</item>
+        <item>종합용역</item>
+        <item>혼례서비스</item>
+    </string-array>
+
+    <string-array name="filter_23_spinner">
+        <item>정수기</item>
+        <item>주방용구</item>
+        <item>주방용식기</item>
+    </string-array>
+
+    <string-array name="filter_24_spinner">
+        <item>기타가구</item>
+        <item>일반가구</item>
+        <item>철제가구</item>
+    </string-array>
+
+    <string-array name="filter_25_spinner">
+        <item>기타직물</item>
+        <item>옷감·직물</item>
+        <item>침구·수예점</item>
+        <item>카페트,커튼,천막,지물</item>
+    </string-array>
+
+    <string-array name="filter_26_spinner">
+        <item>약국</item>
+        <item>제약회사</item>
+        <item>한약방</item>
+    </string-array>
+
+    <string-array name="filter_27_spinner">
+        <item>가정용품수리</item>
+        <item>기타수리서비스</item>
+        <item>레져용품수리</item>
+        <item>사무·통신기기수리</item>
+        <item>세탁소</item>
+        <item>신변잡화수리</item>
+    </string-array>
+
+    <string-array name="filter_28_spinner">
+        <item>사진관</item>
+    </string-array>
+
+    <string-array name="filter_29_spinner">
+        <item>기타 사무용품</item>
+        <item>사무용 OA기기</item>
+        <item>컴퓨터</item>
+        <item>통신기기</item>
+        <item>통신기기(무이자할부)</item>
+    </string-array>
+
+    <string-array name="filter_30_spinner">
+        <item>가방</item>
+        <item>귀금속</item>
+        <item>기념품점</item>
+        <item>기타잡화</item>
+        <item>시계</item>
+        <item>신발</item>
+        <item>액세서리</item>
+        <item>제화</item>
+    </string-array>
+
+    <string-array name="filter_31_spinner">
+        <item>기타농업관련</item>
+        <item>농기계</item>
+        <item>비료,사료,종자</item>
+    </string-array>
+
+    <string-array name="filter_32_spinner">
+        <item>문화취미기타</item>
+        <item>민예·공예품</item>
+        <item>수족관</item>
+        <item>애완동물</item>
+        <item>영화관</item>
+        <item>티켓</item>
+        <item>화랑</item>
+        <item>화방·표구점</item>
+        <item>화원</item>
+    </string-array>
+
+    <string-array name="filter_33_spinner">
+        <item>가타자동차서비스</item>
+        <item>견인서비스</item>
+        <item>세차장</item>
+        <item>윤활유 전문 판매</item>
+        <item>자동차부품</item>
+        <item>자동차시트·타이어</item>
+        <item>자동차정비</item>
+        <item>주차장</item>
+        <item>중장비수리</item>
+        <item>카인테리어</item>
+    </string-array>
+
+    <string-array name="filter_34_spinner">
+        <item>골프연습장</item>
+        <item>기타레져업소</item>
+        <item>노 래 방</item>
+        <item>당 구 장</item>
+        <item>볼 링 장</item>
+        <item>수 영 장</item>
+        <item>스크린골프</item>
+        <item>테니스장</item>
+        <item>헬스클럽</item>
+    </string-array>
+</resources>

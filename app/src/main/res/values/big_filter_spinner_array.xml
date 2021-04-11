@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_spinner">
+        <item>일반휴게음식</item>
+        <item>병원</item>
+        <item>전기제품</item>
+        <item>건강식품</item>
+        <item>유통업 영리</item>
+        <item>의원</item>
+        <item>기타</item>
+        <item>학원</item>
+        <item>서적문구</item>
+        <item>레져용품</item>
+        <item>별도관리</item>
+        <item>유통업 비영리</item>
+        <item>숙박업</item>
+        <item>보건위생</item>
+        <item>기타의료기관</item>
+        <item>회원제형태</item>
+        <item>건축자재</item>
+        <item>여행</item>
+        <item>의류</item>
+        <item>연료판매점</item>
+        <item>자동차판매</item>
+        <item>음료식품</item>
+        <item>용역 서비스</item>
+        <item>주방용구</item>
+        <item>가구</item>
+        <item>직물</item>
+        <item>약국</item>
+        <item>수리서비스</item>
+        <item>광학제품</item>
+        <item>사무통신</item>
+        <item>신변잡화</item>
+        <item>농업</item>
+        <item>문화.취미</item>
+        <item>자동차정비 유지</item>
+        <item>레저업소</item>
+    </string-array>
+</resources>
